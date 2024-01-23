@@ -1,6 +1,5 @@
-// active navbar 
+// active navba
 
+// nav hide
 
-// nav hide 
-
-// counter design 
+// counter design

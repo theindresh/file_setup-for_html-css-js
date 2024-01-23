@@ -1,60 +1,53 @@
-@media(max-width:1024px){
-    /* about section  */
-}    
-
-@media (max-width:991px){
-    /* custom class */
-
-
-    /* navbar brand  */
-    
-    
-    /* banner design  */
-    
-    /* crousel design  */
-}
-@media (max-width:767px){
-    /* custom class */
-
-
-    /* navbar brand  */
-    
-    
-    /* banner design  */
-    
-    /* crousel design  */
-}
-@media (max-width:330px){
-    /* custom class */
-
-
-    /* navbar brand  */
-    
-    
-    /* banner design  */
-    
-    /* crousel design  */
+@media (max-width: 1024px) {
+  /* about section  */
 }
 
-    
-    /* header design  */
+@media (max-width: 991px) {
+  /* custom class */
 
-    /* section 1 top-banner design   */
+  /* navbar brand  */
 
-    /* section 2 counter  */
+  /* banner design  */
 
-    /* section 3 about  */
+  /* crousel design  */
+}
+@media (max-width: 767px) {
+  /* custom class */
 
-    /* section 4 story   */
+  /* navbar brand  */
 
-    /* section 5 explore food   */
+  /* banner design  */
 
-    /* section 6 testimonial   */
+  /* crousel design  */
+}
+@media (max-width: 330px) {
+  /* custom class */
 
-    /* section 7 faq   */
+  /* navbar brand  */
 
-    /* section 8 book food   */
+  /* banner design  */
 
-    /* section 9 newsletter   */
-   
-    /* section 10 footer   */
+  /* crousel design  */
+}
+
+/* header design  */
+
+/* section 1 top-banner design   */
+
+/* section 2 counter  */
+
+/* section 3 about  */
+
+/* section 4 story   */
+
+/* section 5 explore food   */
+
+/* section 6 testimonial   */
+
+/* section 7 faq   */
+
+/* section 8 book food   */
+
+/* section 9 newsletter   */
+
+/* section 10 footer   */
